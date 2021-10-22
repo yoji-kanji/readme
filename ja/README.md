@@ -1,12 +1,12 @@
 # 四字熟語 NFT [YOJI] 
 ## 入手方法
 
-1. MetaMask に 0.05 ETH 程度 (gas 代 0.02 ETH 含む) を用意します。
+1. MetaMask に 0.05 ETH 程度 (NFT 代 0.03 ETH + gas 代 0.02 ETH) を用意します。
 2. https://yoji.info/api/seed/四字熟語 にアクセスして tokenId を確認します。
 
+※「四字熟語」の部分を欲しい四字熟語に置き換えてアクセスします。
 ![getTokenId](../assets/images/checkTokenId.png)
 
-※「四字熟語」の部分を欲しい四字熟語に置き換えてアクセスします。
 
 3. Etherscan (https://etherscan.io/address/{NFT_contract_address}#writeContract) にアクセスします。
 
